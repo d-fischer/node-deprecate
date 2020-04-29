@@ -43,4 +43,4 @@ if (typeof process !== 'undefined' && typeof process.stderr !== 'undefined') {
 deprecate.silence = false;
 
 module.exports = deprecate;
-module.exports.deprecate = deprecate;
+module.exports.default = deprecate;
