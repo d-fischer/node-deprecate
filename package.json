@@ -3,7 +3,6 @@
   "version": "2.0.1",
   "description": "Mark methods as deprecated and warn the user when they're called",
   "main": "index.js",
-  "module": "index.mjs",
   "types": "index.d.ts",
   "exports": {
     ".": {
